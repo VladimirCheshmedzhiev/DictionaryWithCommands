@@ -1,0 +1,2 @@
+# DictionaryWithCommands
+Simple dicitonary
